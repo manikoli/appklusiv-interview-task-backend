@@ -6,7 +6,7 @@ To run the app locally, please follow these instructions:
 
 First, you need to have MongoDB installed on your machine. You can download and install it from the official website: https://www.mongodb.com/try/download/community
 
-Run yarn install to install the necessary dependencies.
+Run `yarn install` to install the necessary dependencies.
 
 Once the dependencies have been installed, create a new database in MongoDB called `appklusiv_db` by running the following command in the terminal:
 
